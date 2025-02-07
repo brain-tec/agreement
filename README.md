@@ -22,6 +22,7 @@ Available addons
 addon | version | maintainers | summary
 --- | --- | --- | ---
 [agreement](agreement/) | 18.0.1.0.0 | [![ygol](https://github.com/ygol.png?size=30px)](https://github.com/ygol) [![alexis-via](https://github.com/alexis-via.png?size=30px)](https://github.com/alexis-via) | Adds an agreement object
+[agreement_rebate](agreement_rebate/) | 18.0.1.0.0 |  | Rebate in agreements
 
 [//]: # (end addons)
 
