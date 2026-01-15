@@ -6,10 +6,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 18.0\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2026-01-14 15:42+0000\n"
-"Last-Translator: mymage <stefano.consolaro@mymage.it>\n"
+"PO-Revision-Date: 2026-01-14 12:36+0000\n"
+"Last-Translator: jakobkrabbe <jakob@syscare.se>\n"
 "Language-Team: none\n"
-"Language: it\n"
+"Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
@@ -19,80 +19,80 @@ msgstr ""
 #. module: agreement_serviceprofile
 #: model:ir.model.fields,field_description:agreement_serviceprofile.field_agreement_serviceprofile__message_needaction
 msgid "Action Needed"
-msgstr "Azione richiesta"
+msgstr "Åtgärder som krävs"
 
 #. module: agreement_serviceprofile
 #: model:ir.model.fields,field_description:agreement_serviceprofile.field_agreement_serviceprofile__active
 msgid "Active"
-msgstr "Attivo"
+msgstr "Aktiv"
 
 #. module: agreement_serviceprofile
 #: model_terms:ir.ui.view,arch_db:agreement_serviceprofile.agreement_fsm_order_form_view
 msgid "Add notes here..."
-msgstr "Aggiungi note qui..."
+msgstr "Lägg till anteckningar här..."
 
 #. module: agreement_serviceprofile
 #: model:ir.model,name:agreement_serviceprofile.model_agreement
 #: model:ir.model.fields,field_description:agreement_serviceprofile.field_agreement_serviceprofile__agreement_id
 #: model_terms:ir.ui.view,arch_db:agreement_serviceprofile.agreement_serviceprofile_search
 msgid "Agreement"
-msgstr "Accordo"
+msgstr "Avtal"
 
 #. module: agreement_serviceprofile
 #: model:ir.model,name:agreement_serviceprofile.model_agreement_serviceprofile
 msgid "Agreement Service Profiles"
-msgstr "Profili di servizio contratto"
+msgstr "Avtalstjänstprofiler"
 
 #. module: agreement_serviceprofile
 #: model:ir.model,name:agreement_serviceprofile.model_agreement_stage
 msgid "Agreement Stages"
-msgstr "Fasi contratto"
+msgstr "Avtalsetapper"
 
 #. module: agreement_serviceprofile
 #: model_terms:ir.ui.view,arch_db:agreement_serviceprofile.agreement_serviceprofile_form
 msgid "Archived"
-msgstr "In archivio"
+msgstr "Arkiverad"
 
 #. module: agreement_serviceprofile
 #: model:ir.model.fields,field_description:agreement_serviceprofile.field_agreement_serviceprofile__message_attachment_count
 msgid "Attachment Count"
-msgstr "Conteggio allegati"
+msgstr "Antal bilagor"
 
 #. module: agreement_serviceprofile
 #: model:ir.model.fields,field_description:agreement_serviceprofile.field_product_product__service_tracking
 #: model:ir.model.fields,field_description:agreement_serviceprofile.field_product_template__service_tracking
 msgid "Create on Order"
-msgstr "Crea un ordine"
+msgstr "Skapa på beställning"
 
 #. module: agreement_serviceprofile
 #: model:ir.model.fields,field_description:agreement_serviceprofile.field_agreement_serviceprofile__create_uid
 msgid "Created by"
-msgstr "Creato da"
+msgstr "Skapad av"
 
 #. module: agreement_serviceprofile
 #: model:ir.model.fields,field_description:agreement_serviceprofile.field_agreement_serviceprofile__create_date
 msgid "Created on"
-msgstr "Creato il"
+msgstr "Skapad den"
 
 #. module: agreement_serviceprofile
 #: model:ir.model.fields,field_description:agreement_serviceprofile.field_agreement_serviceprofile__display_name
 msgid "Display Name"
-msgstr "Nome visualizzato"
+msgstr "Visningsnamn"
 
 #. module: agreement_serviceprofile
 #: model:ir.model.fields,field_description:agreement_serviceprofile.field_agreement_serviceprofile__message_follower_ids
 msgid "Followers"
-msgstr "Seguito da"
+msgstr "Följare"
 
 #. module: agreement_serviceprofile
 #: model:ir.model.fields,field_description:agreement_serviceprofile.field_agreement_serviceprofile__message_partner_ids
 msgid "Followers (Partners)"
-msgstr "Seguito da (partner)"
+msgstr "Följare (partners)"
 
 #. module: agreement_serviceprofile
 #: model:ir.model.fields,field_description:agreement_serviceprofile.field_agreement_serviceprofile__has_message
 msgid "Has Message"
-msgstr "Ha un messaggio"
+msgstr "Har meddelande"
 
 #. module: agreement_serviceprofile
 #: model:ir.model.fields,field_description:agreement_serviceprofile.field_agreement_serviceprofile__id
@@ -102,78 +102,76 @@ msgstr "ID"
 #. module: agreement_serviceprofile
 #: model:ir.model.fields,help:agreement_serviceprofile.field_agreement_serviceprofile__message_needaction
 msgid "If checked, new messages require your attention."
-msgstr "Se selezionata, nuovi messaggi richiedono attenzione."
+msgstr "Om markerad, nya meddelanden kräverdin uppmärksamhet."
 
 #. module: agreement_serviceprofile
 #: model:ir.model.fields,help:agreement_serviceprofile.field_agreement_serviceprofile__message_has_error
 msgid "If checked, some messages have a delivery error."
-msgstr "Se selezionata, alcuni messaggi hanno un errore di consegna."
+msgstr "Om markerad, några meddelanden har ett leveransfel."
 
 #. module: agreement_serviceprofile
 #: model:ir.model.fields,help:agreement_serviceprofile.field_agreement_serviceprofile__active
 msgid ""
 "If unchecked, it will allow you to hide this service profile without "
 "removing it."
-msgstr ""
-"Se non selezionato, consente di nascondere questo profilo di servizio senza "
-"rimuoverlo."
+msgstr "Om avmarkerad, kan du dölja denna tjänstprofil utan att ta bort den."
 
 #. module: agreement_serviceprofile
 #: model:ir.model.fields,field_description:agreement_serviceprofile.field_agreement_serviceprofile__message_is_follower
 msgid "Is Follower"
-msgstr "Segue"
+msgstr "Är följare"
 
 #. module: agreement_serviceprofile
 #: model:ir.model.fields,field_description:agreement_serviceprofile.field_agreement_serviceprofile__write_uid
 msgid "Last Updated by"
-msgstr "Ultimo aggiornamento di"
+msgstr "Senast uppdaterad av"
 
 #. module: agreement_serviceprofile
 #: model:ir.model.fields,field_description:agreement_serviceprofile.field_agreement_serviceprofile__write_date
 msgid "Last Updated on"
-msgstr "Ultimo aggiornamento il"
+msgstr "Senast uppdaterad den"
 
 #. module: agreement_serviceprofile
 #: model:ir.model.fields,field_description:agreement_serviceprofile.field_agreement_serviceprofile__message_has_error
 msgid "Message Delivery error"
-msgstr "Errore di consegna messaggio"
+msgstr "Fel vid leverans av meddelande"
 
 #. module: agreement_serviceprofile
 #: model:ir.model.fields,field_description:agreement_serviceprofile.field_agreement_serviceprofile__message_ids
 msgid "Messages"
-msgstr "Messaggi"
+msgstr "Meddelanden"
 
 #. module: agreement_serviceprofile
 #: model:ir.model.fields,field_description:agreement_serviceprofile.field_agreement_serviceprofile__name
 msgid "Name"
-msgstr "Nome"
+msgstr "Namn"
 
 #. module: agreement_serviceprofile
 #: model:ir.model.fields,field_description:agreement_serviceprofile.field_agreement_serviceprofile__notes
 #: model_terms:ir.ui.view,arch_db:agreement_serviceprofile.agreement_fsm_order_form_view
 #: model_terms:ir.ui.view,arch_db:agreement_serviceprofile.agreement_serviceprofile_form
 msgid "Notes"
-msgstr "Note"
+msgstr "Anteckningar"
 
 #. module: agreement_serviceprofile
 #: model:ir.model.fields,field_description:agreement_serviceprofile.field_agreement_serviceprofile__message_needaction_counter
 msgid "Number of Actions"
-msgstr "Numero di azioni"
+msgstr "Antal åtgärder"
 
 #. module: agreement_serviceprofile
 #: model:ir.model.fields,field_description:agreement_serviceprofile.field_agreement_serviceprofile__message_has_error_counter
 msgid "Number of errors"
-msgstr "Numero di errori"
+msgstr "Antal fel"
 
 #. module: agreement_serviceprofile
 #: model:ir.model.fields,help:agreement_serviceprofile.field_agreement_serviceprofile__message_needaction_counter
 msgid "Number of messages requiring action"
-msgstr "Numero di messaggi che richiedono un'azione"
+msgstr "Antal meddelanden som kräver åtgärd"
 
 #. module: agreement_serviceprofile
 #: model:ir.model.fields,help:agreement_serviceprofile.field_agreement_serviceprofile__message_has_error_counter
 msgid "Number of messages with delivery error"
-msgstr "Numero di messaggi con errore di consegna"
+msgstr "Antal meddelanden med leveransfel"
 
 #. module: agreement_serviceprofile
 #: model:ir.model.fields,field_description:agreement_serviceprofile.field_agreement_serviceprofile__partner_id
@@ -184,40 +182,40 @@ msgstr "Partner"
 #: model:ir.model,name:agreement_serviceprofile.model_product_template
 #: model_terms:ir.ui.view,arch_db:agreement_serviceprofile.agreement_serviceprofile_search
 msgid "Product"
-msgstr "Prodotto"
+msgstr "Produkt"
 
 #. module: agreement_serviceprofile
 #: model_terms:ir.ui.view,arch_db:agreement_serviceprofile.agreement_serviceprofile_search
 msgid "Product Variant"
-msgstr "Variante prodotto"
+msgstr "Produktvariant"
 
 #. module: agreement_serviceprofile
 #: model:ir.model.fields,field_description:agreement_serviceprofile.field_agreement_serviceprofile__rating_ids
 msgid "Ratings"
-msgstr "Valutazioni"
+msgstr "Betyg"
 
 #. module: agreement_serviceprofile
 #: model_terms:ir.ui.view,arch_db:agreement_serviceprofile.product_product_form_view
 #: model_terms:ir.ui.view,arch_db:agreement_serviceprofile.product_template_form_view
 msgid "Service"
-msgstr "Servizio"
+msgstr "Service"
 
 #. module: agreement_serviceprofile
 #: model:ir.model.fields,field_description:agreement_serviceprofile.field_agreement_serviceprofile__product_id
 msgid "Service Product"
-msgstr "Prodotto servizio"
+msgstr "Serviceprodukt"
 
 #. module: agreement_serviceprofile
 #: model:ir.model.fields,field_description:agreement_serviceprofile.field_agreement_serviceprofile__product_variant_id
 msgid "Service Product Variant"
-msgstr "Variante prodotto servizio"
+msgstr "Serviceproduktvariant"
 
 #. module: agreement_serviceprofile
 #: model:ir.model.fields.selection,name:agreement_serviceprofile.selection__agreement_stage__stage_type__serviceprofile
 #: model:ir.model.fields.selection,name:agreement_serviceprofile.selection__product_template__service_tracking__serviceprofile
 #: model_terms:ir.ui.view,arch_db:agreement_serviceprofile.agreement_serviceprofile_form
 msgid "Service Profile"
-msgstr "Profilo servizio"
+msgstr "Tjänstprofil"
 
 #. module: agreement_serviceprofile
 #: model:ir.actions.act_window,name:agreement_serviceprofile.agreement_serviceprofile_action
@@ -227,34 +225,34 @@ msgstr "Profilo servizio"
 #: model:ir.ui.menu,name:agreement_serviceprofile.dashboard_serviceprofiles
 #: model_terms:ir.ui.view,arch_db:agreement_serviceprofile.agreement_fsm_order_form_view
 msgid "Service Profiles"
-msgstr "Profili servizio"
+msgstr "Tjänstprofiler"
 
 #. module: agreement_serviceprofile
 #: model:ir.model.fields,field_description:agreement_serviceprofile.field_agreement_serviceprofile__stage_id
 msgid "Stage"
-msgstr "Fase"
+msgstr "Etapp"
 
 #. module: agreement_serviceprofile
 #: model:ir.model.fields,help:agreement_serviceprofile.field_agreement_serviceprofile__partner_id
 msgid "The customer or vendor this agreement is related to."
-msgstr "Il cliente o fornitore a cui è correlato questo contratto."
+msgstr "Den kund eller leverantör som detta avtal avser."
 
 #. module: agreement_serviceprofile
 #: model:ir.model.fields,field_description:agreement_serviceprofile.field_agreement_stage__stage_type
 msgid "Type"
-msgstr "Tipo"
+msgstr "Typ"
 
 #. module: agreement_serviceprofile
 #: model:ir.model.fields,field_description:agreement_serviceprofile.field_agreement_serviceprofile__use_product_variant
 msgid "Use Product Variant"
-msgstr "Usa variante prodotto"
+msgstr "Använd produktvariant"
 
 #. module: agreement_serviceprofile
 #: model:ir.model.fields,field_description:agreement_serviceprofile.field_agreement_serviceprofile__website_message_ids
 msgid "Website Messages"
-msgstr "Messaggi sito web"
+msgstr "Webbplatsmeddelanden"
 
 #. module: agreement_serviceprofile
 #: model:ir.model.fields,help:agreement_serviceprofile.field_agreement_serviceprofile__website_message_ids
 msgid "Website communication history"
-msgstr "Cronologia comunicazioni sito web"
+msgstr "Webbplatsens kommunikationshistorik"
