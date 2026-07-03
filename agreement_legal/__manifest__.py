@@ -11,7 +11,7 @@
     "website": "https://github.com/OCA/agreement",
     "category": "Partner",
     "license": "AGPL-3",
-    "version": "18.0.1.2.0",
+    "version": "18.0.1.3.0",
     "depends": ["contacts", "agreement", "product", "web"],
     "data": [
         "data/cron.xml",
@@ -49,6 +49,7 @@
         ],
     },
     "application": True,
+    "uninstall_hook": "uninstall_hook",
     "development_status": "Beta",
     "maintainers": ["max3903", "ygol"],
 }
